@@ -4,3 +4,4 @@
 4.git diff
 5.git  log
 6.git reflog
+7.git status

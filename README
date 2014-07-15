@@ -5,3 +5,5 @@
 5.git  log
 6.git reflog
 7.git status
+
+8.git checkout -b dev
